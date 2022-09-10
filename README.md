@@ -1,4 +1,4 @@
-## Hello, I am Hardik! 👋
+## Hello, I'm Hardik Khandala! 👋
 
 ### **About**
 
