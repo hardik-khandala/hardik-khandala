@@ -1,6 +1,6 @@
 # Hello, I'm Hardik Khandala! 👋
 
-## **About**
+## **💫About**
 
 - Currently learning JavaScript.
 - Student At LDRP Institute of Technology & Research, Gandhinagar.
