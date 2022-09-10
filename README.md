@@ -1,4 +1,4 @@
-# Hello, I'm Hardik Khandala! <a> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50em" height="50em"> </a>
+# Hello, I'm Hardik Khandala! <a> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35em" height="35em"> </a>
 
 ## **💫About**
 
