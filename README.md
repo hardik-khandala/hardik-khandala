@@ -3,7 +3,8 @@
 ## **💫About**
 
 - Currently learning JavaScript.
-- Student At LDRP Institute of Technology & Research, Gandhinagar.
+- IT Engineer
+- Student at LDRP Institute of Technology & Research, Gandhinagar.
 
 ## **🌐Socials**
 
