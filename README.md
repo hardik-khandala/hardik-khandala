@@ -2,7 +2,7 @@
 
 ## **💫About**
 
-- Currently learning JavaScript.
+- Currently learning JavaScript & DSA.
 - IT Engineer
 - Student at LDRP Institute of Technology & Research, Gandhinagar.
 
