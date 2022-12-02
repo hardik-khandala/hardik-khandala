@@ -1,7 +1,6 @@
 # Hello, I'm Hardik Khandala!
 
 ## 💫 About Me:
-🔭 I’m currently working on <br>
 🌱 I’m currently learning Web3 and Blockchain<br>
 💬 Feel free to ask anything!!!<br>
 ⚡ Fun fact: 
