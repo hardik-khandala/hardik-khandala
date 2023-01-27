@@ -4,6 +4,7 @@
 🌱 I’m currently OOP with Java<br>
 💬 Feel free to ask anything!!!<br>
 ⚡ Fun fact: 
+👋 Let's connect
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hardik_khandala) 
