@@ -1,7 +1,7 @@
 # Hello, I'm Hardik Khandala!
 
 ## 💫 About Me:
-🌱 I’m currently learning Web3 and Blockchain<br>
+🌱 I’m currently OOP with Java<br>
 💬 Feel free to ask anything!!!<br>
 ⚡ Fun fact: 
 
