@@ -3,7 +3,7 @@
 ## 💫 About Me:
 🌱 I’m currently OOP with Java<br>
 💬 Feel free to ask anything!!!<br>
-⚡ Fun fact: 
+⚡ Fun fact: <br>
 👋 Let's connect
 
 ## 🌐 Socials:
